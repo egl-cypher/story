@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chapter 3 and am excited to be changing thing ok
+=======
+this is also amazing of the whole feeling so keep trying something new alein plot
+>>>>>>> alein-plot

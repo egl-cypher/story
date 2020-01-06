@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This chapter 2 and on to the next one
+=======
+this is who good i feel to program alein plot alein plot
+>>>>>>> alein-plot
